@@ -12,6 +12,8 @@ WHAT DOES IT DO
  
  * Simple Python Cartoonizer  [Uses OpenCV]
 
+   - NOTE: For this to work, you need to Create 2 Folders, Input & Output.
+
    - Input files go into the Input folder, after running the Script, it will output them to the Output folder.
 
      Most script functions have an Description written by me.
