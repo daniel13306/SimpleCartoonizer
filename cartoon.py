@@ -12,6 +12,21 @@ import os
 InputFileFolder = "Input\\"
 OutputFileFolder = "Output\\"
 
+try:
+    os.mkdir("Input")
+    print("Input Folder Made!")
+except:
+    pass
+
+try:
+    os.mkdir("Output")
+    print("Output Folder Made!")
+except:
+    pass
+
+
+
+
 
 # Declare filelist (Filelist = files in InputFileFolder)
 filelist=os.listdir(InputFileFolder)
