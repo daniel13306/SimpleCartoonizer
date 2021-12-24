@@ -1,5 +1,6 @@
 # SimpleCartoonizer
 Simple .PNG Cartoonizer / Edger
+
 This Python Script will Cartoonize your .png
 
 NOTE: pip install opencv-python
